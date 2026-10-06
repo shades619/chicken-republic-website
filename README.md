@@ -37,3 +37,4 @@ npm run build
 ```
 
 The output is generated in `dist/`.
+Cloudflare deployment test.
